@@ -1,4 +1,4 @@
-package com.yourpackage.siamai.ui.components
+package com.siam.ai.ui.components
 
 import androidx.compose.animation.core.*
 import androidx.compose.foundation.background
@@ -17,8 +17,8 @@ import androidx.compose.ui.platform.LocalClipboardManager
 import androidx.compose.ui.text.AnnotatedString
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.yourpackage.siamai.model.ChatMessage
-import com.yourpackage.siamai.ui.theme.*
+import com.siam.ai.model.ChatMessage
+import com.siam.ai.ui.theme.*
 
 @Composable
 fun MessageBubble(

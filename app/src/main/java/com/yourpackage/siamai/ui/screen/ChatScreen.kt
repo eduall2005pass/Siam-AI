@@ -1,4 +1,4 @@
-package com.yourpackage.siamai.ui.screen
+package com.siam.ai.ui.screen
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
@@ -11,9 +11,9 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.yourpackage.siamai.ui.components.*
-import com.yourpackage.siamai.ui.theme.*
-import com.yourpackage.siamai.viewmodel.ChatViewModel
+import com.siam.ai.ui.components.*
+import com.siam.ai.ui.theme.*
+import com.siam.ai.viewmodel.ChatViewModel
 import kotlinx.coroutines.launch
 
 @OptIn(ExperimentalMaterial3Api::class)

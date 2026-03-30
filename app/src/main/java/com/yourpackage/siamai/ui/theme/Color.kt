@@ -1,4 +1,4 @@
-package com.yourpackage.siamai.ui.theme
+package com.siam.ai.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

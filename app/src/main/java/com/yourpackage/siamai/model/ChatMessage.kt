@@ -1,4 +1,4 @@
-package com.yourpackage.siamai.model
+package com.siam.ai.model
 
 import java.util.UUID
 

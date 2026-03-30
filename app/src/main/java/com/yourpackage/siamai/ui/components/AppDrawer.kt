@@ -1,4 +1,4 @@
-package com.yourpackage.siamai.ui.components
+package com.siam.ai.ui.components
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
@@ -19,8 +19,8 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.yourpackage.siamai.model.ChatSession
-import com.yourpackage.siamai.ui.theme.*
+import com.siam.ai.model.ChatSession
+import com.siam.ai.ui.theme.*
 
 @Composable
 fun AppDrawer(

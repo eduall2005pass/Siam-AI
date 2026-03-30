@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SiamAi" parent="Theme.AppCompat">
+        <item name="colorPrimary">#3B82F6</item>
+        <item name="colorPrimaryDark">#1F2937</item>
+        <item name="colorAccent">#818CF8</item>
+    </style>
+
+    <style name="Theme.AppCompat.DayNight.NoActionBar" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">#3B82F6</item>
+        <item name="colorAccent">#818CF8</item>
+    </style>
+</resources>
